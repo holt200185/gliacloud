@@ -1,0 +1,23 @@
+1-1
+none. (couldn't slove anything.)
+
+1-2
+1.
+F1 Score is the average of Precision and Recall. Therefore, this score takes both false positives and false negatives into account. 
+F1 is usually more useful than accuracy, especially if you have an uneven class distribution. 
+Accuracy works best if false positives and false negatives have similar cost.
+
+2.
+because learning can be smoother and easier (less wiggly)
+and chances of more than 1 neuron being 100% activated is lesser when compared to step function while training
+
+3.
+In statistics and machine learning, the bias?variance tradeoff is the property of a set of predictive models whereby models
+with a lower bias in parameter estimation have a higher variance of the parameter estimates across samples, 
+and vice versa. The bias?variance dilemma or problem is the conflict in trying to simultaneously minimize these two sources of 
+error that prevent supervised learning algorithms from generalizing beyond their training set. 
+
+4.
+Pruning is required in decision trees to avoid overfitting.
+In random forest, the data sample going to each individual tree has already gone through bagging(which is again responsible for dealing with overfitting). 
+There is no need to go for Pruning in this case.
